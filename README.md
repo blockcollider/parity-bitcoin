@@ -1,6 +1,6 @@
 # The Parity Bitcoin client.
 
-[![Build Status][travis-image]][travis-url] [![Snap Status](https://build.snapcraft.io/badge/paritytech/parity-bitcoin.svg)](https://build.snapcraft.io/user/paritytech/parity-bitcoin)
+[![Build Status](https://www.travis-ci.org/blockcollider/parity-bitcoin.svg?branch=master)](https://www.travis-ci.org/blockcollider/parity-bitcoin)
 
 Gitter [![Gitter https://gitter.im/paritytech/parity-bitcoin](https://badges.gitter.im/paritytech/parity-bitcoin.svg)](https://gitter.im/paritytech/parity-bitcoin)
 
